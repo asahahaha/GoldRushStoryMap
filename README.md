@@ -1,6 +1,6 @@
 # GoldRushStoryMap
 
-A [storymap](https://asahahaha.github.io/GoldRushStoryMap/) embedded with MapBox to show the history of immigrants to the U.S.(especially Chinese) during California Gold Rush.
+A [storymap](https://asahahaha.github.io/GoldRushStoryMap/) embedded with MapBox to show the history of immigrants to the U.S.(especially Chinese) during California Gold Rush.<br>
 <img src="preview.png" alt="" width="300"/>
 
 
